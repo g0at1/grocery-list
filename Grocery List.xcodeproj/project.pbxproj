@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		8519D0D42A4F5E3200D3AEAC /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
-		8569365A2A4DB51A0017A532 /* grocery-list.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "grocery-list.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8569365A2A4DB51A0017A532 /* Grocery List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Grocery List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8569365D2A4DB51A0017A532 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8569365F2A4DB51A0017A532 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		856936612A4DB51A0017A532 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		8569365B2A4DB51A0017A532 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8569365A2A4DB51A0017A532 /* grocery-list.app */,
+				8569365A2A4DB51A0017A532 /* Grocery List.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		856936592A4DB51A0017A532 /* grocery-list */ = {
+		856936592A4DB51A0017A532 /* Grocery List */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8569366E2A4DB51A0017A532 /* Build configuration list for PBXNativeTarget "grocery-list" */;
+			buildConfigurationList = 8569366E2A4DB51A0017A532 /* Build configuration list for PBXNativeTarget "Grocery List" */;
 			buildPhases = (
 				856936562A4DB51A0017A532 /* Sources */,
 				856936572A4DB51A0017A532 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "grocery-list";
+			name = "Grocery List";
 			productName = "grocery-list";
-			productReference = 8569365A2A4DB51A0017A532 /* grocery-list.app */;
+			productReference = 8569365A2A4DB51A0017A532 /* Grocery List.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 856936552A4DB51A0017A532 /* Build configuration list for PBXProject "grocery-list" */;
+			buildConfigurationList = 856936552A4DB51A0017A532 /* Build configuration list for PBXProject "Grocery List" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				856936592A4DB51A0017A532 /* grocery-list */,
+				856936592A4DB51A0017A532 /* Grocery List */,
 			);
 		};
 /* End PBXProject section */
@@ -343,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		856936552A4DB51A0017A532 /* Build configuration list for PBXProject "grocery-list" */ = {
+		856936552A4DB51A0017A532 /* Build configuration list for PBXProject "Grocery List" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8569366C2A4DB51A0017A532 /* Debug */,
@@ -352,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8569366E2A4DB51A0017A532 /* Build configuration list for PBXNativeTarget "grocery-list" */ = {
+		8569366E2A4DB51A0017A532 /* Build configuration list for PBXNativeTarget "Grocery List" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8569366F2A4DB51A0017A532 /* Debug */,
