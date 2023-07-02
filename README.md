@@ -37,7 +37,7 @@ To get started with the Swift Grocery List App, follow these steps:
 
 ## Screenshots
 
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](screenshots/main_screen.png =250x400)
 ![Adding an Item](screenshots/add_item.png)
 ![Main Screen with added item](screenshots/added_item.png)
 ![Deleting an Item](screenshots/delete_item.png)
